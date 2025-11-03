@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: acbdockeracc/hello-world-app:6778f0c-1762180689
+        image: acbdockeracc/hello-world-app:a545c4d-1762181045
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
